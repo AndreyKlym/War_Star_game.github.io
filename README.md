@@ -1,1 +1,1 @@
-# WarStarGame.github.io
+# warstargame.github.io

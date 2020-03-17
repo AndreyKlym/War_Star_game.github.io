@@ -1,1 +1,1 @@
-# War_Star_game.github.io
+# Star_Wars_game.github.io

@@ -103,7 +103,7 @@ function revreshCards() {  //  функция изминение выбрано�
     for(var i = 0; i < countCards; i = i + 1) {
         cardsField.children[i].className  = "";
         cardsField.children[i].style.backgroundImage = 'url("images/back.png")';
-    }f
+    }
     selected = [];
     pause = false;
 
